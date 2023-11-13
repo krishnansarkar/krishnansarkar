@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal site.
+- 🌱 I’m currently learning Full Stack web dev.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can play the ukelele (poorly).
 <!--
 **krishnansarkar/krishnansarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
